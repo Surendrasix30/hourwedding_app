@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/hourwedding_app/static/js/main.eb4976ea.chunk.js",
+    "main.js.map": "/hourwedding_app/static/js/main.eb4976ea.chunk.js.map",
+    "runtime-main.js": "/hourwedding_app/static/js/runtime-main.2a365e6d.js",
+    "runtime-main.js.map": "/hourwedding_app/static/js/runtime-main.2a365e6d.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/hourwedding_app/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0e1146d8.chunk.js": "/hourwedding_app/static/js/2.0e1146d8.chunk.js",
+    "static/js/2.0e1146d8.chunk.js.map": "/hourwedding_app/static/js/2.0e1146d8.chunk.js.map",
+    "static/js/3.a9022bc9.chunk.js": "/hourwedding_app/static/js/3.a9022bc9.chunk.js",
+    "static/js/3.a9022bc9.chunk.js.map": "/hourwedding_app/static/js/3.a9022bc9.chunk.js.map",
+    "index.html": "/hourwedding_app/index.html",
+    "service-worker.js": "/hourwedding_app/service-worker.js",
+    "service-worker.js.map": "/hourwedding_app/service-worker.js.map",
+    "static/css/2.4c97ca4f.chunk.css.map": "/hourwedding_app/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.0e1146d8.chunk.js.LICENSE.txt": "/hourwedding_app/static/js/2.0e1146d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a365e6d.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0e1146d8.chunk.js",
+    "static/js/main.eb4976ea.chunk.js"
+  ]
+}
